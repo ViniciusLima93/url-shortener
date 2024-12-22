@@ -1,0 +1,9 @@
+
+###
+POST http://localhost:3000/shorten
+content-type: "application/json"
+
+{
+  "longUrl": "http://llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch.co.uk",
+   
+}
